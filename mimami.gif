@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Mi mami</title>
+</head>
+<body background="correo.gif">
+<h1>Mi mamá:</h1>
+
+
+Me considero una persona leal, comprometida y respetuosa, aunque con un carácter muy especial 
+que me hace única. Disfruto mucho de los pequeños momentos de la vida: me encanta leer, ver 
+películas con mi familia y salir de compras para despejarme y pasar un buen rato. Mi comida 
+favorita es el mole; sin embargo, algo que definitivamente no me gusta es el aguacate. Me gusta
+rodearme de personas auténticas, aprender cosas nuevas todos los días y enfrentar cada reto con 
+actitud positiva. Y por último, pero no menos importante, soy Politécnica, y llevo con orgullo 
+los valores, la disciplina y el espíritu de superación que esta institución representa para mí.
+
+<center>
+<img src="Rojo.jpeg" width=100 height=200>
+<img src="politecnico.jpeg" width=100 height=200>
+<img src="micara.jpeg" width=100 height=200>
+</center>
+
+
+
+
+</body>
+</html>
